@@ -2,17 +2,17 @@
 <html>
 <body>
 	<h1>RestFulServicesLAB</h1>
-	<p>Repository that contains all the information to deploy correctly the Restful Services Laboratory and also the slides that we use on the laboratory</p>
-	<p>To execute everything correctly you just need to :</p>
+	<p>Repositorio que contiene toda la información para desplegar correctamente el Laboratorio de Restful Services y también las diapositivas que utilizamos en el laboratorio.</p>
+	<p>Para que todo se ejecute correctamente basta con :</p>
 	<ul>
-		<li>Clone and download zip project.</li>
-		<li>Extract and open the project folder with Visual studio Code</li>
-		<li>Execute command npm install</li>
-		<li>Execute command : node index.js</li>
+		<li>Clone y descargue el proyecto zip.</li>
+		<li>Extraiga y abra la carpeta del proyecto con Visual studio Code/Spring Tools</li>
+		<li>Ejecutar el comando npm install</li>
+		<li>ejecutar el comando node app.js</li>
 	</ul>
-	<p>Some important links to deploy correctly the laboratory :</p>
+	<p>Algunos enlaces importantes para desplegar correctamente el laboratorio :</p>
 	<ul>
-		<li>Downloads :</li>
+		<li>Descargas :</li>
 		<p></p>
 		<ul>
 			<li>Node.JS :  <a href="https://nodejs.org/en/">https://nodejs.org/en/</a></li>
@@ -23,7 +23,7 @@
 			<img class="img-visual" src="https://user-images.githubusercontent.com/52389293/228720148-d21d2c33-76fe-47b7-9c76-571e1f3d926c.png">
 		</ul>
 		<p></p>
-		<li>Important Information :</li>
+		<li>Informacion importanter</li>
 		<p></p>
 		<ul>
 			<li>NPM : <a href="https://www.npmjs.com/">https://www.npmjs.com/</a></li>
