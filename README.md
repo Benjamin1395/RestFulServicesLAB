@@ -17,6 +17,8 @@
 		<ul>
 		<li>Spring Tools:  <a href="https://spring.io/tools">https://spring.io/tools</a></li>
 			<img class="img-nodejs" src="https://github.com/Benjamin1395/RestFulServicesLAB/assets/52389293/5c1007a5-e0b6-42e7-b152-0fc9b935d829">
+		<li>Soap Ui:  <a href="https://www.soapui.org/downloads/soapui/">https://www.soapui.org/downloads/soapui/</a></li>
+			<img class="img-nodejs" src="https://github.com/Benjamin1395/RestFulServicesLAB/assets/52389293/8dd39dc2-29f0-4458-b4c7-d0f27974d9b2">
 			<li>Node.JS :  <a href="https://nodejs.org/en/">https://nodejs.org/en/</a></li>
 			<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/228718314-a11fd12d-736c-43e0-8096-952e6adaf816.png">
 			<li>Visual Studio Code : <a href="https://code.visualstudio.com/download">https://code.visualstudio.com/download</a></li>
