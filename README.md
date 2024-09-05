@@ -5,8 +5,8 @@
 	<p>Repositorio que contiene toda la información para desplegar correctamente el Laboratorio de Restful Services y también las diapositivas que utilizamos en el laboratorio.</p>
 	<p>Para que todo se ejecute correctamente basta con :</p>
 	<ul>
-		<li>Clone y descargue el proyecto zip.</li>
-		<li>Extraiga y abra la carpeta del proyecto con Visual studio Code/Spring Tools</li>
+		<li>Clonar y descargar el proyecto zip.</li>
+		<li>Extraer y abrir la carpeta del proyecto con Visual studio Code/Spring Tools</li>
 		<li>Ejecutar el comando npm install</li>
 		<li>ejecutar el comando node app.js</li>
 	</ul>
@@ -27,7 +27,7 @@
 			<img class="img-visual" src="https://user-images.githubusercontent.com/52389293/228720148-d21d2c33-76fe-47b7-9c76-571e1f3d926c.png">
 		</ul>
 		<p></p>
-		<li>Informacion importanter</li>
+		<li>Informacion importante</li>
 		<p></p>
 		<ul>
 			<li>NPM : <a href="https://www.npmjs.com/">https://www.npmjs.com/</a></li>
