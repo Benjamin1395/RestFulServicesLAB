@@ -6,7 +6,7 @@
 	<p>Para que todo se ejecute correctamente basta con :</p>
 	<ul>
 		<li>Clonar y descargar el proyecto zip.</li>
-		<li>Extraer y abrir la carpeta del proyecto con Visual studio Code/Spring Tools</li>
+		<li>Extraer y abrir la carpeta del proyecto con Visual studio Code/Eclipse</li>
 		<li>Ejecutar el comando npm install</li>
 		<li>ejecutar el comando node app.js</li>
 	</ul>
