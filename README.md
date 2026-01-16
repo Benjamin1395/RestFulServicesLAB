@@ -19,10 +19,6 @@
 			<img class="img-nodejs" src="https://github.com/Benjamin1395/RestFulServicesLAB/assets/52389293/8dd39dc2-29f0-4458-b4c7-d0f27974d9b2">
 			<li>Node.JS :  <a href="https://nodejs.org/en/">https://nodejs.org/en/</a></li>
 			<img class="img-nodejs" src="https://user-images.githubusercontent.com/52389293/228718314-a11fd12d-736c-43e0-8096-952e6adaf816.png">
-			<li>Visual Studio Code : <a href="https://code.visualstudio.com/download">https://code.visualstudio.com/download</a></li>
-			<img class="img-visual" src="https://user-images.githubusercontent.com/52389293/228719624-29d361fa-62e6-46cd-9ce6-ebc37af9dd75.png">
-			<li>PostMan : <a href="https://www.postman.com/downloads/">https://www.postman.com/downloads/</a></li>
-			<img class="img-visual" src="https://user-images.githubusercontent.com/52389293/228720148-d21d2c33-76fe-47b7-9c76-571e1f3d926c.png">
 		</ul>
 		<p></p>
 		<li>Informacion importante</li>
