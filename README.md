@@ -6,9 +6,8 @@
 	<p>Para que todo se ejecute correctamente basta con :</p>
 	<ul>
 		<li>Clonar y descargar el proyecto zip.</li>
-		<li>Extraer y abrir la carpeta del proyecto con Visual studio Code/Eclipse</li>
-		<li>Ejecutar el comando npm install</li>
-		<li>ejecutar el comando node app.js</li>
+		<li>Extraer y abrir la carpeta del proyecto con Eclipse</li>
+		<li>ejecutar el comando node index.js</li>
 	</ul>
 	<p>Algunos enlaces importantes para desplegar correctamente el laboratorio :</p>
 	<ul>
